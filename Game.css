@@ -1,0 +1,31 @@
+#gameDiv
+{
+ background-color: cyan;
+ border: 5px solid black;
+ padding: 20px;
+ text-align: center;
+ line-height: 40px;
+ border-radius: 25px;
+}
+#playerText
+{
+    color: blue;
+}
+#computerText
+{
+    color:red;
+}
+#resultText
+{
+    color:green;
+}
+.choiceBtn
+{
+    width: 150px;
+    height: 40px;
+    font-size: large;
+    font-weight: 200;
+   border-radius: 20px;
+   background-color: black;
+   color: aliceblue;
+}
